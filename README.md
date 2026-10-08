@@ -1,6 +1,6 @@
 # SCUDataBase
 homework of principles of DataBase
 
-姓名：王光年
+姓名：
 
-学号2019141410307
+学号
